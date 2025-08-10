@@ -38,7 +38,7 @@ body{{margin:0;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 
 .details{{padding:2rem 0;background:#fff;}}
 
 .site-footer{{background:#111;color:#fff;padding:1rem 0;margin-top:2rem;text-align:center;}}
-*{
+body{
   color:#87654c
 }
 /* responsive */
